@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kqrity
-- 👀 I’m interested in Fricking
-- 🌱 I’m currently learning Fricking
-- 💞️ I’m looking to collaborate on Fricking
-- 📫 How to reach me Fricking
+- 👀 I’m interested in Noting
+- 🌱 I’m currently learning Nothing
+- 💞️ I’m looking to collaborate on Nothing
+- 📫 How to reach me No
 
 <!---
 kqrity/kqrity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
